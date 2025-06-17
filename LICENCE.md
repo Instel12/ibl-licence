@@ -37,3 +37,5 @@
 ---
 
 © [Your Name or Alias], [Year]. This license may be freely used and redistributed with credit.
+
+[![IBL License](https://raw.githubusercontent.com/Instel12/ibl-licence/refs/heads/main/IBL.png)]([https://github.com/yourusername/ibl-license/blob/main/LICENSE.md](https://github.com/Instel12/ibl-licence/blob/main/LICENCE.md))
